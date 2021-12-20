@@ -1,0 +1,24 @@
+Enter the employee ID (number 7 digits or less):1234
+Enter the employee name:Joe Smith
+Enter the employee email:smith20@gmail.com
+Enter the employee address:
+Enter the employee salary (18 - 27):20.02
+
+Would you like to enter another employee? (y/n):y
+Enter the employee ID (number 7 digits or less):45233
+Enter the employee name:Thomas Anderson
+Enter the employee email:ThomasA@gmail.com
+Enter the employee address:3018 Cherry Lane
+Enter the employee salary (18 - 27):19.99
+
+Would you like to enter another employee? (y/n):y
+Enter the employee ID (number 7 digits or less):605904
+Enter the employee name:John Habib
+Enter the employee email:HabibJ@gmail.com
+Enter the employee address:1919 Apple Drive
+Enter the employee salary (18 - 27):25.52
+
+Would you like to enter another employee? (y/n):n
+
+Updated Employee Data:  [{'Employee ID': '1234', 'Employee Name': 'Joe Smith IT Department', 'Employee Email Address': 'smith20@gmail.com', 'Employee Address': '', 'Employee Salary': '26.03'}, {'Employee ID': '45233', 'Employee Name': 'Thomas Anderson IT Department', 'Employee Email Address': 'ThomasA@gmail.com', 'Employee Address': '3018 Cherry Lane', 'Employee Salary': '25.99'}, {'Employee ID': '605904', 'Employee Name': 'John Habib IT Department', 'Employee Email Address': 'HabibJ@gmail.com', 'Employee Address': '1919 Apple Drive', 'Employee Salary': '33.18'}]
+PS C:\Users\kratk\Desktop\College Stuff\CSC 1500, 1\Lab Programs>
